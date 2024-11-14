@@ -134,7 +134,7 @@ st.markdown(
 )
 
 # Streamlit interface
-st.markdown('<div class="header-title">🏡 Real Estate Web Scraper 🏡</div>', unsafe_allow_html=True)
+st.markdown('<div class="header-title">🏡 MagicBricks Web Scraper 🏡</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-header">Scrape property data easily from MagicBricks</div>', unsafe_allow_html=True)
 
 # URL input
